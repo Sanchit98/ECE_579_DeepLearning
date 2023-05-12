@@ -1,4 +1,4 @@
-# ECE547_Deep Learning
+# ECE579_Deep Learning
 Deep Learning 2023
 
 Coursework for ECE579 : Intro to Deep Learning.
